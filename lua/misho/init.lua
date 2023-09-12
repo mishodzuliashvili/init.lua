@@ -1,1 +1,2 @@
-print("hello from misho")
+require("misho.remap")
+require("misho.set")
